@@ -27,4 +27,8 @@ public class TestNGPractice extends BaseClass {
 		
 	}
 	
+	public void gitChangeChecking() {
+		System.out.println("yes its changing");
+	}
+	
 }
