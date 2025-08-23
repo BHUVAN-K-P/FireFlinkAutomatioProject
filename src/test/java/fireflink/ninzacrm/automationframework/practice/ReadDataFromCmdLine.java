@@ -13,6 +13,10 @@ public class ReadDataFromCmdLine {
 		
 		String PWD=System.getProperty("password");
 		System.out.println(PWD);
+		
+		
+		
+		System.out.println("changes happen.....");
 
 	}
 }
