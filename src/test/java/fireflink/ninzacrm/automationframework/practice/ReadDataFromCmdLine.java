@@ -16,7 +16,7 @@ public class ReadDataFromCmdLine {
 		
 		
 		
-		System.out.println("changes happen.....");
+		System.out.println("changes happen");
 
 	}
 }

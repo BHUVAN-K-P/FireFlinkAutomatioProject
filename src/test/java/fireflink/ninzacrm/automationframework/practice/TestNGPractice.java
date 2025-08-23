@@ -21,7 +21,6 @@ public class TestNGPractice extends BaseClass {
 	
 	public void sample() {
 		Reporter.log("Clicked on create campagin btn",true);
-//		Assert.fail();
 		System.out.println("sample test failing");
 		Reporter.log("campaign created successfully..");
 		

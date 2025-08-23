@@ -79,7 +79,7 @@ public class BaseClass {
 	
 	@AfterTest(alwaysRun = true)
 	public void acConfig() {
-		driver.quit();
+		driver.close();
 		System.out.println("closing browser...");
 	}
 	@AfterSuite(alwaysRun = true)
